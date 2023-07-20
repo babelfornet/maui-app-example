@@ -10,11 +10,17 @@
 *.userosscache
 *.sln.docstates
 
+# Babel license file
+babel.licenses
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
 # Mono auto generated files
 mono_crash.*
+
+# MAC related
+.DS_Store
 
 # Build results
 [Dd]ebug/
